@@ -2,7 +2,7 @@ import java.util.*;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
-class GWA {//lagyan mo ng exception tanga
+class GWA {//Carlos Natanauan
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
